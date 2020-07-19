@@ -1,4 +1,3 @@
-# Arlo README
 
 
 Discrapency Finder – https://github.com/jeevanatigre/discrepancy-finder-service
