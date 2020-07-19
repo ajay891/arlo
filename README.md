@@ -2,5 +2,6 @@
 
 
 Discrapency Finder – https://github.com/jeevanatigre/discrepancy-finder-service
-Pravin Script - https://github.com/pravinmore2894/azurestoragemanager/blob/master/appsettings.json
+Microsoft - https://azure.microsoft.com/mediahandler/files/resourcefiles/mainframe-to-azure-migration-patterns/MainframeToAzureMigrationPatterns.pdf
+Amazon - https://aws.amazon.com/blogs/apn/in-depth-strategies-from-infosys-to-help-customers-re-platform-mainframes-on-aws/
 
