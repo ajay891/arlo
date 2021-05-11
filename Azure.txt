@@ -5,6 +5,13 @@ DB Name = sql-datasbase
 Admin = admin-user
 Password = Jmjk108247
 
+My SQL Server 
+------------------
+DB Server = mysql-database-host
+DB Name = sql-datasbase
+Admin = adminuser
+Password = Jmjk108247
+
 Windows-VM
 ----------
 Name = windows-vm-1
