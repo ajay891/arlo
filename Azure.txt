@@ -34,3 +34,8 @@ CREATE TABLE Client (
 
 insert into Client values (100001, 'William', 'Bantley', 'Manhattan', 'New York');
 insert into Client values (100002, 'Robert', 'Murray', 'Pavonia', 'Jersey City');
+
+
+Git Phrase 
+----------
+jmjk
