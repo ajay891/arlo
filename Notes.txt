@@ -1,0 +1,41 @@
+Microsoft SQL Server 
+------------------
+DB Server = sql-database-host
+DB Name = sql-datasbase
+Admin = admin-user
+Password = Jmjk108247
+
+My SQL Server 
+------------------
+DB Server = mysql-database-host
+DB Name = sql-datasbase
+Admin = adminuser
+Password = Jmjk108247
+
+Windows-VM
+----------
+Name = windows-vm-1
+User Name = admin-user
+Password - Jmjk1082471#$
+
+
+
+
+
+Data 
+--------
+CREATE TABLE Client (
+    ClientID int,
+    FirstName varchar(255),
+    LastName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+insert into Client values (100001, 'William', 'Bantley', 'Manhattan', 'New York');
+insert into Client values (100002, 'Robert', 'Murray', 'Pavonia', 'Jersey City');
+
+
+Git Phrase 
+----------
+jmjk
